@@ -1,16 +1,16 @@
 # Google-Docs-Custom-Clone
 ## Project Components
-->Client-side (Frontend)
+### Client-side (Frontend)
 React: A JavaScript library for building user interfaces.
 Quill: A rich text editor that provides the editing interface.
 Socket.io: A library for real-time bidirectional communication between web clients and servers.
 React Router: A library for routing in React applications, enabling navigation between different pages or views.
-->Server-side (Backend)
+### Server-side (Backend)
 Node.js: A JavaScript runtime for building scalable network applications.
 Express: A web application framework for Node.js.
 Socket.io: To handle real-time events and updates.
 MongoDB: A NoSQL database for storing document data.
-## Project Architecture
+### Project Architecture
 Client-Server Communication:
 
 The client and server communicate in real-time using Socket.io.
