@@ -1,4 +1,4 @@
-# Google-Docs-Custom-Clone
+# Document Hub
 ## Project Components
 ### Client-side (Frontend)
 React: A JavaScript library for building user interfaces.
